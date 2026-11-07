@@ -1,6 +1,6 @@
 # Olá, eu sou o Wanderson 👋
 
-Economista (URCA, 2025) com experiência em rotinas financeiras e interesse em
+Economista com experiência em rotinas financeiras e interesse em
 controladoria, auditoria e análise de dados.
 
 ## O que faço
