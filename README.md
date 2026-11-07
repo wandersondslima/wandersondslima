@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou o Wanderson 👋
 
-<!--
-**wandersondslima/wandersondslima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Economista (URCA, 2025) com experiência em rotinas financeiras e interesse em
+controladoria, auditoria e análise de dados.
 
-Here are some ideas to get you started:
+## O que faço
+- Conciliação bancária, contas a pagar e relatórios financeiros
+- Análise de dados com Excel, Power BI e Python
+- Estudando SQL e fundamentos de auditoria interna
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos
+Em breve: análises financeiras e dashboards com bases públicas.
+
+## Contato
+- LinkedIn: https://www.linkedin.com/in/franciscowandersondesousalima
