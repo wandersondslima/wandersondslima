@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=F2B705&center=true&vCenter=true&width=520&lines=Analisando+dados+financeiros;Auditoria+e+controladoria;SQL+Python+e+R)](https://github.com/wandersondslima)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/franciscowandersondesousalima)
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wandersontumblr@gmail.com)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:franciscowandersonprof@gmail.com)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-0F4C3A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wandersondslima.github.io)
 
 </div>
